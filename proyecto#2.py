@@ -51,5 +51,5 @@ def llama_funcion():
     turtle.exitonclick()
 
 llama_funcion()
-#buenas tardes
-#jaja
+#buenas noches
+#desde android
